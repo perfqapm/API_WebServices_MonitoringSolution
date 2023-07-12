@@ -1,7 +1,7 @@
 name: Run Collection
 
 env:
-  COLLECTION_URL_OR_JSON: https://api.postman.com/collections/17265974-a1f47dc8-fed1-4c75-b6b2-24df415a44ac?access_key=PMAT-01H54XMAGXW31EPN83116HYC48
+  COLLECTION_URL_OR_JSON: https://api.postman.com/collections/17265974-4d5f6584-4e53-4445-87da-bb6d1efc6632?access_key=PMAT-01H54XYWW18VVBVYATYDBCMZ22
   REQUEST_TIMEOUT: 120000
   EMIAL_IDS: mail2pradeepb@gmail.com,pradeep.babu@robosoftin.com
   ENVIRONMENT_JSON: ''
